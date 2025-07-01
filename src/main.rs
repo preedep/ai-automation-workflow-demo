@@ -1,3 +1,5 @@
+mod infrastructure;
+
 use log::info;
 
 #[actix_web::main]
